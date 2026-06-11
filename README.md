@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello there 👋
+# Hello there! :floppy_disk:
 <p align="center">
   <img src="./AI_me.png" alt="Bob Bell Banner" width="50%"/>
 </p>
