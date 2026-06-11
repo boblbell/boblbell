@@ -18,9 +18,9 @@ Here are some ideas to get you started:
   <img src="./AI_me.png" alt="Bob Bell Banner" width="50%"/>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Building_in_2026-blueviolet?style=for-the-badge" alt="Status Badge">
-  <img src="https://img.shields.io/badge/Focus-Knowledge_Architecture-ff69b4?style=for-the-badge" alt="Focus Badge">
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building_in_2026-blue?style=for-the-badge" alt="Status Badge">
+  <img src="https://img.shields.io/badge/Focus-Knowledge_Architecture-FF8B42?style=for-the-badge" alt="Focus Badge">
 </p>
 
 I am a passionate Cybersecurity Engineer and knowledge architect focused on building clean, efficient, and highly connected digital ecosystems. I specialize in turning complex data fragmentation into streamlined, actionable workflows.
@@ -66,6 +66,7 @@ I am a passionate Cybersecurity Engineer and knowledge architect focused on buil
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🚀 Current Focus Ecosystem
@@ -83,6 +84,8 @@ graph LR
     Skills --> S1["🎨 Advanced Markdown & Mermaid Automation"]
     Skills --> S2["🤖 AI-Augmented Synthesis (NotebookLM Workflows)"]
 ```
+
+---
 
 ## 🔗 Connections
 - [My LinkedIn Profile](https://www.linkedin.com/in/boblbell/)
