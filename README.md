@@ -33,7 +33,7 @@ I am a passionate Cybersecurity Engineer and knowledge architect focused on buil
 <tr>
 <td valign="top" width="50%" align="center">
 
-##### 👨‍💻 Programming & Scripting
+##### ⚡ Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
@@ -51,13 +51,13 @@ I am a passionate Cybersecurity Engineer and knowledge architect focused on buil
 </td>
 <td valign="top" width="50%" align="center">
 
-##### 🛡️ Security Tools & Frameworks
+##### :lock: Security Tools & Frameworks
 ![Nessus](https://img.shields.io/badge/Nessus-1A73E8?logo=tenable&logoColor=white)
 ![STIG](https://img.shields.io/badge/DISA-STIG-blue)
 ![NIST RMF](https://img.shields.io/badge/NIST-RMF-orange)
 ![JSIG](https://img.shields.io/badge/JSIG-DoD-red)
 
-##### ⚙️ DevOps & Other Tools
+##### :package: DevOps & Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
