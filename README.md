@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello there! :floppy_disk:
+<h1 align="center"> <img src="https://github.com/zachflauaus/emoji-repo/blob/master/images/starwars-the-mandalorian.png" width="36">  Hello there! <img src="https://github.com/zachflauaus/emoji-repo/blob/master/images/starwars-mythosaur.png" width="36"> </h1>
 <p align="center">
   <img src="./AI_me.png" alt="Bob Bell Banner" width="50%"/>
 </p>
