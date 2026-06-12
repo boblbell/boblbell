@@ -50,7 +50,7 @@ I am a passionate Cybersecurity Engineer and knowledge architect focused on buil
 ![CCSP](https://img.shields.io/badge/ISC²-CCSP-4B9CD3?style=for-the-badge&logo=isc2&logoColor=white)
 ![SecurityX](https://img.shields.io/badge/CompTIA-SecurityX-E2231A?style=for-the-badge&logo=comptia&logoColor=white)
 
-[View all certifications on Credly »](https://www.credly.com/)
+[View all certifications on Credly »](https://www.credly.com/users/bob-bell/badges/credly)
 </div>
 
 
