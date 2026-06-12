@@ -27,6 +27,33 @@ I am a passionate Cybersecurity Engineer and knowledge architect focused on buil
 
 ---
 
+
+
+<div align="center">
+
+### 🎓 Education
+
+**Western Governors University**
+
+![MS](https://img.shields.io/badge/MS-Cybersecurity%20%26%20IA-003087?style=for-the-badge&logo=graduationcap&logoColor=white)
+![MBA](https://img.shields.io/badge/MBA-Business-003087?style=for-the-badge&logo=graduationcap&logoColor=white)
+![BS](https://img.shields.io/badge/BS-Cybersecurity%20%26%20IA-003087?style=for-the-badge&logo=graduationcap&logoColor=white)
+
+<!-- **Northwest Florida State College**
+
+![AAS](https://img.shields.io/badge/AS-Computer%20Information%20Technology-1F6B3A?style=for-the-badge&logo=graduationcap&logoColor=white)
+![AAS](https://img.shields.io/badge/AS-Computer%20Engineering%20Technology-1F6B3A?style=for-the-badge&logo=graduationcap&logoColor=white)
+![AS](https://img.shields.io/badge/AS-Network%20Administrator-1F6B3A?style=for-the-badge&logo=graduationcap&logoColor=white)
+![Cert](https://img.shields.io/badge/Cert-Computer%20Programming%20Specialist-1F6B3A?style=for-the-badge&logo=graduationcap&logoColor=white)
+-->
+### 🏆 Certifications
+
+![CISSP](https://img.shields.io/badge/ISC²-CISSP-4B9CD3?style=for-the-badge&logo=isc2&logoColor=white)
+![CCSP](https://img.shields.io/badge/ISC²-CCSP-4B9CD3?style=for-the-badge&logo=isc2&logoColor=white)
+![SecurityX](https://img.shields.io/badge/CompTIA-SecurityX-E2231A?style=for-the-badge&logo=comptia&logoColor=white)
+
+[View all certifications on Credly »](https://www.credly.com/)
+
 ## 🛠 My Current Knowledge and Growth Path:
 
 <table align="center">
