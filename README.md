@@ -27,8 +27,6 @@ I am a passionate Cybersecurity Engineer and knowledge architect focused on buil
 
 ---
 
-
-
 <div align="center">
 
 ### 🎓 Education
@@ -53,6 +51,8 @@ I am a passionate Cybersecurity Engineer and knowledge architect focused on buil
 ![SecurityX](https://img.shields.io/badge/CompTIA-SecurityX-E2231A?style=for-the-badge&logo=comptia&logoColor=white)
 
 [View all certifications on Credly »](https://www.credly.com/)
+</div>
+
 
 ## 🛠 My Current Knowledge and Growth Path:
 
